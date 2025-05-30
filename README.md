@@ -6,13 +6,13 @@ This is an Android application built with Kotlin and Jetpack Compose that simula
 
 ## Features
 
-- ✅ Fetches user profiles from the [RandomUser API](https://randomuser.me/api/?results=10)
-- ✅ Displays match cards using Jetpack Compose
-- ✅ Accept or Decline matches with instant UI feedback
-- ✅ Offline support using Room database
-- ✅ Modern MVVM architecture with Repository pattern
-- ✅ Persistent match status (accepted/declined)
-- ✅ Error handling for API and database operations
+- Fetches user profiles from the [RandomUser API](https://randomuser.me/api/?results=10)
+- Displays match cards using Jetpack Compose
+- Accept or Decline matches with instant UI feedback
+- Offline support using Room database
+- Modern MVVM architecture with Repository pattern
+- Persistent match status (accepted/declined)
+- Error handling for API and database operations
 
 ---
 
